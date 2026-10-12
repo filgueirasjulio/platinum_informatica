@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 104" role="img" aria-label="Platinum Informática">
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#C9D3E3"/>
+      <stop offset="1" stop-color="#8FA0BD"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD84D"/>
+      <stop offset="1" stop-color="#FFB400"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12307F"/>
+      <stop offset="1" stop-color="#0A1A4D"/>
+    </linearGradient>
+  </defs>
+  <!-- Notebook -->
+  <rect x="6" y="14" width="84" height="56" rx="6" fill="url(#screen)" stroke="#9DB6E8" stroke-width="3"/>
+  <path d="M0 78h96l-6 8H6z" fill="url(#silver)"/>
+  <!-- Engrenagens -->
+  <g fill="none" stroke="#3D8BFF" stroke-linecap="butt">
+    <circle cx="34" cy="50" r="15" stroke-width="7" stroke-dasharray="7.9 7.9" transform="rotate(10 34 50)"/>
+    <circle cx="34" cy="50" r="11" stroke-width="4"/>
+    <circle cx="34" cy="50" r="5" stroke-width="3" stroke="#BFD8FF"/>
+    <circle cx="66" cy="30" r="14" stroke-width="7" stroke-dasharray="7.3 7.3"/>
+    <circle cx="66" cy="30" r="10" stroke-width="4"/>
+    <circle cx="66" cy="30" r="4.500" stroke-width="3" stroke="#BFD8FF"/>
+  </g>
+  <!-- Texto -->
+  <text x="108" y="58" font-family="Montserrat, 'Arial Black', Arial, sans-serif" font-weight="900" font-style="italic" font-size="44" letter-spacing="1" fill="url(#silver)" stroke="#5E7399" stroke-width="0.8">PLATINUM</text>
+  <text x="110" y="88" font-family="Montserrat, 'Arial Black', Arial, sans-serif" font-weight="800" font-style="italic" font-size="25" letter-spacing="3" fill="url(#gold)">INFORMÁTICA</text>
+</svg>

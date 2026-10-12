@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Platinum Informática">
+  <rect width="96" height="96" rx="18" fill="#0A1A4D"/>
+  <rect x="14" y="20" width="68" height="46" rx="5" fill="#12307F" stroke="#9DB6E8" stroke-width="3"/>
+  <path d="M8 72h80l-5 7H13z" fill="#C9D3E3"/>
+  <g fill="none" stroke="#3D8BFF">
+    <circle cx="36" cy="50" r="12" stroke-width="6" stroke-dasharray="6.3 6.3"/>
+    <circle cx="36" cy="50" r="4" stroke-width="3" stroke="#BFD8FF"/>
+    <circle cx="62" cy="34" r="11" stroke-width="6" stroke-dasharray="5.8 5.8"/>
+    <circle cx="62" cy="34" r="3.500" stroke-width="3" stroke="#BFD8FF"/>
+  </g>
+</svg>

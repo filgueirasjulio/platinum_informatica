@@ -1,0 +1,8 @@
+# Material de trabalho: não vai para o site público
+images/
+specs/
+.claude/
+.specify/
+.DS_Store
+node_modules/
+*.log
